@@ -39,12 +39,12 @@ Run the main.py script:
 
 ## Project Structure
 
-- ** main.py: The primary script of the application.
-- ** Analysis.py: Module containing the class for conducting financial analysis
-- ** DataDownloading.py: Module downloading data from YahooFinance API
-- ** ConvertingData.py: Module converting files from format .json to .xml or .xlsx
-- ** financial_data_json/: Folder where data is stored.
-- ** results/: Folder where analysis results will be saved.
+- **main.py**: The primary script of the application.
+- **Analysis.py**: Module containing the class for conducting financial analysis
+- **DataDownloading.py**: Module downloading data from YahooFinance API
+- **ConvertingData.py**: Module converting files from format .json to .xml or .xlsx
+- **financial_data_json/**: Folder where data is stored.
+- **results/**: Folder where analysis results will be saved.
 
 ## Author
 Dominik Nicałek
