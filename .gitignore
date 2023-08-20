@@ -26,3 +26,7 @@ settings.conf
 .env.local
 backup/
 *.bak
+
+Lib/site-packages/
+Scripts/
+share/man/man1/
