@@ -26,7 +26,7 @@ This tool empowers users with the ability to perform a range of analyses, aiding
 ## Installation
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/YourUsername/FinancialAnalysis.git
+   git clone https://github.com/dnicalek/CryptoAnalyzer.git
 2. Navigate to the project directory:
    cd FinancialAnalysis
 3. Install the required libraries:
