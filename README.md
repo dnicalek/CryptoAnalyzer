@@ -8,6 +8,8 @@ This tool empowers users with the ability to perform a range of analyses, aiding
 
 ## Features
 
+- **Data Retrieval**: The CryptoAnalyzer allows users to conveniently retrieve financial instrument data using the Yahoo Finance API. This feature simplifies the process of collecting historical pricing data for analysis.
+
 - **Investment Return Calculation**: Calculate the investment return for two instruments over a specified period, enabling users to assess the profitability of their investments.
 
 - **Correlation Analysis**: Measure the correlation between two instruments to understand how their performance trends relate to each other, assisting users in identifying potential patterns.
